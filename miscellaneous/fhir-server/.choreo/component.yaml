@@ -1,6 +1,6 @@
 schemaVersion: 1.2
 endpoints:
-    - name: international401-fhir-api
+    - name: international401-fhir-api-1
       displayName: international401 FHIR API
       service:
         basePath: /fhir/r4
